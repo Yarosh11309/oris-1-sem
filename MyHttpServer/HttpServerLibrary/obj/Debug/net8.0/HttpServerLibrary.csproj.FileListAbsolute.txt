@@ -1,0 +1,47 @@
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll

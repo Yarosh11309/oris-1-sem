@@ -1,0 +1,86 @@
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CopyComplete
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLib.FCB61E28.Up2Date
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLib.FCB61E28.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyORMLibrary\bin\Debug\net8.0\TemplateEngine.pdb

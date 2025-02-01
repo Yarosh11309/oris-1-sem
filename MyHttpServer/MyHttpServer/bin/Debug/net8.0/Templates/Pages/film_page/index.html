@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фильм Неадекватные люди 2</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: #fff;
+            background-color: #100e19;
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+            background-color: #100e19;
+            height: 60px;
+        }
+
+        .logo-nav {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .logo img {
+            height: 32px;
+            margin-right: 8px;
+        }
+
+        .logo span {
+            font-size: 20px;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .nav a {
+            text-decoration: none;
+            color: #9d9ca4;
+            font-size: 16px;
+        }
+
+        .nav a:hover {
+            color: #fff;
+        }
+
+        .actions {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .red-button {
+            background-color: #f9255d;
+            color: #fff;
+            padding: 8px 16px;
+            font-size: 16px;
+            border-radius: 20px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+            cursor: pointer;
+        }
+
+        .red-button:hover {
+            background-color: #ff3333;
+        }
+
+        .actions .icon {
+            color: #aaa;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        .actions .icon:hover {
+            color: #fff;
+        }
+
+        .login {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background-color: #2d2d2d;
+            border-radius: 20px;
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+        .login:hover {
+            background-color: #444;
+        }
+
+        .main-content {
+            padding: 20px;
+        }
+
+        .movie-info {
+            display: flex;
+            gap: 40px;
+        }
+
+        .movie-poster {
+            flex: 1;
+            background-color: #000;
+            height: 400px;
+        }
+
+        .movie-details {
+            flex: 2;
+        }
+
+        .movie-title {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .movie-meta {
+            color: #aaa;
+            margin-bottom: 20px;
+        }
+
+        .rating {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .rating span {
+            background-color: #282828;
+            border-radius: 8px;
+            padding: 10px;
+            margin-right: 10px;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        .description {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .footer {
+            background-color: #100e19; /* Фон футера совпадает с фоном сайта */
+            color: #9d9ca4; /* Цвет текста */
+            padding: 20px; /* Отступы вокруг футера */
+            display: flex;
+            justify-content: space-between; /* Колонки располагаются с равномерным распределением */
+            max-width: 1200px; /* Максимальная ширина футера */
+            margin: 0 auto; /* Центрируем футер */
+        }
+
+        .footer-columns {
+            display: flex;
+            gap: 40px; /* Расстояние между колонками */
+        }
+
+        .footer-column {
+            display: flex;
+            flex-direction: column; /* Элементы располагаются вертикально */
+            gap: 10px; /* Расстояние между ссылками внутри колонки */
+        }
+
+            .footer-column .column-title {
+                color: #fff; /* Белый цвет заголовка */
+                font-weight: bold; /* Выделение жирным шрифтом */
+                font-size: 16px; /* Размер текста немного больше для выделения */
+                margin-bottom: 8px; /* Отступ между заголовком и остальными ссылками */
+                text-transform: uppercase; /* Преобразование текста в заглавные буквы (если нужно) */
+                text-decoration: none; /* Убираем подчеркивание */
+                cursor: default; /* Убираем интерактивность */
+            }
+
+
+            .footer-column a {
+                text-decoration: none; /* Убираем подчёркивание */
+                color: #9d9ca4; /* Цвет ссылок */
+                font-size: 14px; /* Размер шрифта */
+                line-height: 1.6; /* Высота строки для читабельности */
+            }
+
+                .footer-column a:hover {
+                    color: #fff; /* Цвет ссылок при наведении */
+                    text-decoration: underline; /* Добавляем подчёркивание при наведении */
+                }
+
+        /* Градиент для текста */
+        .gradient-text {
+            font-weight: bold;
+            background: linear-gradient(90deg, #ff7a18, #af002d, #319197);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+            .gradient-text:hover {
+                -webkit-text-fill-color: #fff; /* Белый цвет текста при наведении */
+            }
+
+        .footer-column {
+            flex: 1;
+            min-width: 200px;
+        }
+
+            .footer-column .column-title {
+                color: #fff; /* Белее для заголовков */
+                font-weight: bold;
+                font-size: 16px;
+                text-decoration: none;
+                display: block;
+                margin-bottom: 10px;
+            }
+
+            .footer-column p {
+                margin: 4px 0;
+                font-size: 14px;
+                color: #9d9ca4;
+            }
+
+            .footer-column .support-button {
+                display: inline-block;
+                padding: 10px 20px;
+                background-color: #2e2844;
+                color: #fff;
+                text-align: center;
+                text-decoration: none;
+                border-radius: 25px; /* Закругленные края */
+                margin-top: 10px;
+                font-size: 16px;
+            }
+
+                .footer-column .support-button:hover {
+                    background-color: #444; /* Подсветка при наведении */
+                }
+
+        .ask-section {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 16px;
+        }
+
+        .ask-photo {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+        }
+
+        .ask-link {
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+            .ask-link:hover {
+                text-decoration: underline; /* Подчеркивание при наведении */
+            }
+
+        .ask-section p {
+            margin: 0;
+            font-size: 14px;
+            color: #9d9ca4;
+        }
+
+        .download-links {
+            display: flex;
+            gap: 20px;
+            justify-content: center; /* Centers the links */
+            margin-top: 30px; /* Add some space at the top */
+        }
+
+        .download-link {
+            text-decoration: none;
+            color: #fff;
+            font-size: 14px;
+            background-color: #312b45; /* A background color for the links */
+            padding: 8px 16px;
+            border-radius: 5px;
+        }
+
+            .download-link:hover {
+                background-color: #444; /* Highlighting the link on hover */
+            }
+
+
+        .movie-poster {
+            background-size: cover;
+            background: none;
+        }
+
+    </style>
+</head>
+<body>
+    <section class="header">
+        <div class="logo-nav">
+            <div class="logo">
+                <img src="https://solea-parent.dfs.ivi.ru/picture/f30745,ffffff/reposition_iviLogoPlateRounded.svg" alt="Logo">
+            </div>
+            <nav class="nav">
+                <a href="#">Мой Иви</a>
+                <a href="#">Фильмы</a>
+                <a href="#">Сериалы</a>
+                <a href="#">Мультфильмы</a>
+            </nav>
+        </div>
+        <div class="actions">
+            <a href="#" class="red-button">Смотреть 60 дней бесплатно</a>
+            <span class="icon">🔎</span>
+            <span class="icon"><img src="img/kolok.png" alt="icon"></span>
+            <a href="#" class="login">
+                <span>👤</span>
+                <span>Войти</span>
+            </a>
+        </div>
+    </section>
+
+    <main class="main-content">
+        <div class="movie-info">
+            <div class="movie-poster"> <img src="{{poster_url}}"></div>
+            <div class="movie-details">
+                <h1 class="movie-title">{{film_name}}</h1>
+                <div class="movie-meta">{{release_year}} · 1 ч. 58 мин. · 16+</div>
+                <div class="rating">
+                    <span>{{rating}}</span> Рейтинг Иви
+                </div>
+                <p class="description">
+                    {{description}}
+                </p>
+            </div>
+        </div>
+
+    </main>
+    <footer class="footer">
+        <div class="footer-columns">
+            <!-- Первая колонка -->
+            <div class="footer-column">
+                <a href="#" class="column-title">О нас</a>
+                <a href="#">О компании</a>
+                <a href="#">Вакансии</a>
+                <a href="#">Программа бета-тестирования</a>
+                <a href="#">Информация для партнёров</a>
+                <a href="#">Размещение рекламы</a>
+                <a href="#">Пользовательское соглашение</a>
+                <a href="#">Политика конфиденциальности</a>
+                <a href="#">На Иви применяются рекомендательные технологии</a>
+                <a href="#">Комплаенс</a>
+                <a href="#">Оставить отзыв</a>
+            </div>
+            <!-- Вторая колонка -->
+            <div class="footer-column">
+                <a href="#" class="column-title">Разделы</a>
+                <a href="#">Мой Иви</a>
+                <a href="#">Что нового</a>
+                <a href="#">Фильмы</a>
+                <a href="#">Сериалы</a>
+                <a href="#">Мультфильмы</a>
+                <a href="#">Что посмотреть</a>
+                <a href="#" class="gradient-text">Активация сертификата</a>
+            </div>
+            <!-- Третья колонка -->
+            <div class="footer-column">
+                <a href="#" class="column-title">Служба поддержки</a>
+                <p>Мы всегда готовы вам помочь.</p>
+                <p>Наши операторы онлайн 24/7</p>
+                <a href="#" class="support-button">Написать в чате</a>
+                <div class="ask-section">
+                    <img src="img\email_16.svg" alt="Ваше фото" class="ask-photo">
+                    <a href="#" class="ask-link">ask.ivi.ru</a>
+                    <p>Ответы на вопросы</p>
+                </div>
+            </div>
+        </div>
+
+
+
+    </footer>
+    <div class="download-links">
+        <a href="#" class="download-link">Загрузить в App Store</a>
+        <a href="#" class="download-link">Доступно в Google Play</a>
+        <a href="#" class="download-link">Смотрите на Smart TV</a>
+        <a href="#" class="download-link">Скачайте из RuStore</a>
+        <a href="#" class="download-link">Откройте в AppGallery</a>
+        <a href="#" class="download-link">Все устройства</a>
+    </div>
+
+</body>
+</html>

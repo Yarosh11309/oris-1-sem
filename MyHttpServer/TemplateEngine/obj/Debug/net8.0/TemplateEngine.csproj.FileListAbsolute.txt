@@ -1,0 +1,47 @@
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\refint\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\TemplateEngine\obj\Debug\net8.0\ref\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\refint\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\ref\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\refint\TemplateEngine.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\ref\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\refint\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\TemplateEngine\obj\Debug\net8.0\ref\TemplateEngine.dll

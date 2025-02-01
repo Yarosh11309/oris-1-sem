@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\AppData\\Local\\Temp\\closeugo..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\AppData\\Local\\Temp\\0nlkhtgm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\AppData\\Local\\Temp\\eyz5vtsm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\endpoints\\filmpageendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\endpoints\\filmpageendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\endpoints\\homeworkendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\endpoints\\homeworkendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62E5888-AADF-484A-8680-C252A1070EE3}|HttpServerLibrary\\HttpServerLibrary.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62E5888-AADF-484A-8680-C252A1070EE3}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\endpoints\\dashboardendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\endpoints\\dashboardendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\endpoints\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ED9871-2E20-4159-BB2F-7FB7B366A214}|TemplateEngine\\TemplateEngine.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ED9871-2E20-4159-BB2F-7FB7B366A214}|TemplateEngine\\TemplateEngine.csproj|solutionrelative:templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ED9871-2E20-4159-BB2F-7FB7B366A214}|TemplateEngine\\TemplateEngine.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\templateengine\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ED9871-2E20-4159-BB2F-7FB7B366A214}|TemplateEngine\\TemplateEngine.csproj|solutionrelative:templateengine\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\templates\\pages\\film_page\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\templates\\pages\\film_page\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5625B2-10AD-47D3-BCC1-F215326EDA2B}|MyORMLibrary\\MyORMLibrary.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5625B2-10AD-47D3-BCC1-F215326EDA2B}|MyORMLibrary\\MyORMLibrary.csproj|solutionrelative:myormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\AppData\\Local\\Temp\\eekbgsox..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\timyr\\downloads\\telegram desktop\\server2812\\server2812\\myhttpserver\\myhttpserver\\public\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8AAAD9-B227-40E1-A033-D78A8F5E56AC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\public\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\Downloads\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\Downloads\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timyr\\Downloads\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "closeugo..sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\AppData\\Local\\Temp\\closeugo..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\closeugo..sql",
+              "ToolTip": "C:\\Users\\timyr\\AppData\\Local\\Temp\\closeugo..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\closeugo..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T18:10:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0nlkhtgm..sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\AppData\\Local\\Temp\\0nlkhtgm..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0nlkhtgm..sql",
+              "ToolTip": "C:\\Users\\timyr\\AppData\\Local\\Temp\\0nlkhtgm..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0nlkhtgm..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T18:06:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eyz5vtsm..sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\AppData\\Local\\Temp\\eyz5vtsm..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eyz5vtsm..sql",
+              "ToolTip": "C:\\Users\\timyr\\AppData\\Local\\Temp\\eyz5vtsm..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eyz5vtsm..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T18:06:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeWorkEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\HomeWorkEndpoints.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Endpoints\\HomeWorkEndpoints.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\HomeWorkEndpoints.cs",
+              "RelativeToolTip": "MyHttpServer\\Endpoints\\HomeWorkEndpoints.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:47:48.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeToolTip": "MyHttpServer\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:46:28.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpServer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:46:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJsTAAAAAAAAAAAwwKoTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-24T13:38:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Templates\\Pages\\film_page\\index.html",
+              "RelativeDocumentMoniker": "MyHttpServer\\Templates\\Pages\\film_page\\index.html",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Templates\\Pages\\film_page\\index.html",
+              "RelativeToolTip": "MyHttpServer\\Templates\\Pages\\film_page\\index.html",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-19T20:06:40.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmPageEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\FilmPageEndPoint.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Endpoints\\FilmPageEndPoint.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\FilmPageEndPoint.cs",
+              "RelativeToolTip": "MyHttpServer\\Endpoints\\FilmPageEndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:59:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "eekbgsox..sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\AppData\\Local\\Temp\\eekbgsox..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eekbgsox..sql",
+              "ToolTip": "C:\\Users\\timyr\\AppData\\Local\\Temp\\eekbgsox..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\eekbgsox..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-19T19:51:01.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\TemplateEngine\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "TemplateEngine\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\TemplateEngine\\Models\\Movies.cs",
+              "RelativeToolTip": "TemplateEngine\\Models\\Movies.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:29:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ORMContext.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyORMLibrary\\ORMContext.cs",
+              "RelativeDocumentMoniker": "MyORMLibrary\\ORMContext.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyORMLibrary\\ORMContext.cs",
+              "RelativeToolTip": "MyORMLibrary\\ORMContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvxgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:21:32.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-19T18:55:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomTemplator.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeDocumentMoniker": "TemplateEngine\\CustomTemplator.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeToolTip": "TemplateEngine\\CustomTemplator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:38:53.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\public\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html",
+              "RelativeDocumentMoniker": "MyHttpServer\\public\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\public\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html",
+              "RelativeToolTip": "MyHttpServer\\public\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430 \u043E\u0440\u0438\u0441\\index.html",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAUwB0CAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-19T18:34:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\DashboardEndpoint.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Endpoints\\DashboardEndpoint.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\DashboardEndpoint.cs",
+              "RelativeToolTip": "MyHttpServer\\Endpoints\\DashboardEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:01:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "RelativeToolTip": "MyHttpServer\\Endpoints\\AuthEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:01:08.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeDocumentMoniker": "MyHttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\Telegram Desktop\\server2812\\server2812\\MyHttpServer\\MyHttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeToolTip": "MyHttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ViewState": "AgIAABICAAAAAAAAAAAIwCACAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-13T20:59:48.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\SQLQuery3.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T20:52:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\SQLQuery2.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T20:24:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\timyr\\Downloads\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\timyr\\Downloads\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T20:18:38.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

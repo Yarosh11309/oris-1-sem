@@ -1,0 +1,926 @@
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.exe
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.deps.json
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.runtimeconfig.json
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\refint\MyHttpServer.dll
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\azmit\cw2-2sem-var1-ALR38\MyHttpServer\MyHttpServer\obj\Debug\net8.0\ref\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.exe
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.runtimeconfig.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\refint\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\ref\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.AssemblyReference.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\refint\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.exe
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\config.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\apple-logo-1998.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\EAlogo.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\facebook.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\favicon.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\google.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\playstation.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\steam.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\images\xbox.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\index.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\style.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.deps.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.runtimeconfig.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpSe.FF156C80.Up2Date
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\MyHttpServer\obj\Debug\net8.0\ref\MyHttpServer.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.AssemblyReference.cache
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CopyComplete
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\config.json
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap-extended.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap.min.css.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\dark-theme.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\header-colors.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\icons.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\pace.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\semi-dark.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\style.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\transformations.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.eot
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.svg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.ttf
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.woff
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.woff2
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.eot
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.svg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.ttf
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.woff
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.woff2
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-reset-password-cover.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-sign-in-basic.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-sign-up-basic.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\register-cover-img.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\01.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\02.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\03.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\04.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\05.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\06.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\07.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\08.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\09.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\10.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\01.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\02.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\03.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\04.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\05.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\06.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\07.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\08.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\09.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\10.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\11.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\12.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\13.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\14.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\15.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\16.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\17.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\18.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\19.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\20.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\21.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\pexels-pixabay-221247.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\profile-cover.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\01.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\02.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\03.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\04.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\05.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\06.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\07.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\08.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\09.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\404-error.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\404.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\505-error.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-7.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-register2.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-register3.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\forgot-password-frent-img.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\login-img.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\american-express.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\apple-black-logo.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\australia.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\brazil.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\china.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\facebook.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\google.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\india.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\mastercard.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\russia.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\UAE.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\usa.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\visa.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\logo-icon-2.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\logo-icon-3.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\01.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\02.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\03.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\04.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\05.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\01.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\02.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\03.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\04.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\05.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\06--.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\06.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\07.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\08.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\09.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\10.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\11.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\12.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\13.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\14.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\15.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\16.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\17.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\18.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\19.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\20.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\21.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\22.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\23.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\01.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\02.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\03.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\04.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\05.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\06.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\07.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\bootstrap.bundle.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\bootstrap.bundle.min.js.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\component-popovers-tooltips.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-date-time-pickes.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-file-upload.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-select2.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\index.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\jquery.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\main.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\pace.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\price-slider.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\product-details.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\table-datatable.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\todo.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\widgets.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\css\apexcharts.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\bs-stepper-custom.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\bs-stepper.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\custom.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\bs-stepper.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\index.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\index.spec.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\listeners.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\main.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\polyfill.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\util.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\chartjs\chart.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\chartjs\custom-script.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\easyPieChart\jquery.easypiechart.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_microphone.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_okay.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_remove.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_upload.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_webcam.png
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\gmaps\map-custom-script.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery-knob\excanvas.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery-knob\jquery.knob.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\easy-pie-chart.init.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\easypiechart.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\js\metisMenu.min.js.map
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\css\lobibox.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\1.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\2.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\3.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\4.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\5.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\6.jpg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\lobibox.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\messageboxes.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notifications.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notifications.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound1.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound2.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound3.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound4.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound5.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound6.ogg
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\css\owl.carousel.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\js\owl.carousel.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\js\owl.carousel2.thumbs.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\peity\jquery.peity.init.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\peity\jquery.peity.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\css\select2.min.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\js\select2-custom.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\js\select2.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\simplebar\css\simplebar.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\validation\jquery.validate.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\validation\validation-script.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-basic.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-cover.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-simple.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-in-basic.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-in-cover.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-up-basic.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-up-cover.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-apex-chart.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-chartjs.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-other.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-peity.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-accordions.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-alerts.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-badges.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-buttons.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-cards.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-carousels.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-list-groups.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-media-object.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-modals.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-navs-tabs.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-notifications.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-paginations.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-popovers-tooltips.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-progress-bars.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-spinners.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-complete.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-details.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-payment.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-review.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-shipping.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-product-comparison.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-product-details.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-cart.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-grid-view-top-filter.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-grid-view.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-list-view.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-date-time-pickes.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-elements.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-file-upload.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-input-group.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-layouts.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-radios-and-checkboxes.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-select2.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-validations.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-wizard.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-boxicons.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-feather-icons.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-line-icons.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\index3.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\map-google-maps.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\map-vector-maps.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-edit-profile.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-404-error.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-500-error.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-coming-soon.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-faq.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-invoices.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-pricing-tables.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-starter-page.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-to-do.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-advance-tables.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-basic-table.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-datatable.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\widgets-data-widgets.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\widgets-static-widgets.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\UserProfile\profile.html
+C:\Users\azmit\RiderProjects\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Registration\registration.html
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.exe
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\config.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\email_16.svg
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\filter_16.svg
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\kolok.png
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\reposition_iviLogoPlateRounded.svg
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Registration\registration.html
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\UserProfile\profile.html
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.runtimeconfig.json
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpSe.FF156C80.Up2Date
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\refint\MyHttpServer.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\ref\MyHttpServer.dll
+C:\Users\timyr\OneDrive\Рабочий стол\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.AssemblyReference.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfoInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.AssemblyInfo.cs
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\refint\MyHttpServer.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.exe
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\config.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap-extended.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\bootstrap.min.css.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\dark-theme.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\header-colors.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\icons.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\pace.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\semi-dark.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\style.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\css\transformations.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.eot
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.ttf
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.woff
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\boxicons.woff2
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.eot
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.ttf
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.woff
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\fonts\LineIcons.woff2
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-reset-password-cover.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-sign-in-basic.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\au-sign-up-basic.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\authentication\register-cover-img.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\01.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\02.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\03.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\04.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\05.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\06.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\07.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\08.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\09.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\avatars\10.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\01.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\02.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\03.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\04.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\05.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\06.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\07.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\08.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\09.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\10.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\11.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\12.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\13.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\14.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\15.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\16.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\17.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\18.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\19.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\20.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\21.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\pexels-pixabay-221247.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\cards\profile-cover.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\01.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\02.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\03.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\04.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\05.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\06.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\07.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\08.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\carousel\09.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\404-error.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\404.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\505-error.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-7.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-register2.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\auth-img-register3.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\forgot-password-frent-img.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\error\login-img.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\american-express.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\apple-black-logo.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\australia.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\brazil.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\china.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\facebook.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\google.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\india.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\mastercard.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\russia.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\UAE.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\usa.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\icons\visa.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\logo-icon-2.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\logo-icon-3.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\01.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\02.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\03.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\04.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\product-gallery\05.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\01.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\02.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\03.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\04.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\05.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\06--.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\06.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\07.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\08.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\09.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\10.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\11.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\12.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\13.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\14.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\15.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\16.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\17.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\18.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\19.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\20.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\21.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\22.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\products\23.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\01.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\02.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\03.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\04.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\05.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\06.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\images\similar-products\07.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\bootstrap.bundle.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\bootstrap.bundle.min.js.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\component-popovers-tooltips.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-date-time-pickes.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-file-upload.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\form-select2.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\index.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\jquery.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\main.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\pace.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\price-slider.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\product-details.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\table-datatable.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\todo.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\js\widgets.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\css\apexcharts.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\bs-stepper-custom.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\bs-stepper.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\css\custom.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\bs-stepper.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\index.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\index.spec.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\listeners.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\main.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\polyfill.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\bs-stepper\js\util.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\chartjs\chart.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\chartjs\custom-script.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\easyPieChart\jquery.easypiechart.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_microphone.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_okay.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_remove.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_upload.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\fancy_webcam.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\gmaps\map-custom-script.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery-knob\excanvas.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery-knob\jquery.knob.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\easy-pie-chart.init.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\easypiechart.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\metismenu\js\metisMenu.min.js.map
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\css\lobibox.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\1.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\2.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\3.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\4.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\5.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\img\6.jpg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\lobibox.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\messageboxes.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notifications.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\js\notifications.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound1.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound2.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound3.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound4.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound5.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\notifications\sounds\sound6.ogg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\nouislider\nouislider.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\css\owl.carousel.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\js\owl.carousel.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\OwlCarousel\js\owl.carousel2.thumbs.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\peity\jquery.peity.init.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\peity\jquery.peity.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\css\select2.min.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\js\select2-custom.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\select2\js\select2.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\simplebar\css\simplebar.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\validation\jquery.validate.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\validation\validation-script.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-basic.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-cover.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-reset-password-simple.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-in-basic.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-in-cover.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-up-basic.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\authentication-sign-up-cover.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-apex-chart.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-chartjs.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-other.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\charts-peity.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-accordions.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-alerts.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-badges.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-buttons.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-cards.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-carousels.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-list-groups.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-media-object.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-modals.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-navs-tabs.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-notifications.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-paginations.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-popovers-tooltips.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-progress-bars.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\component-spinners.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-complete.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-details.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-payment.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-review.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-checkout-shipping.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-product-comparison.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-product-details.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-cart.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-grid-view-top-filter.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-grid-view.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\ecommerce-shop-list-view.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-date-time-pickes.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-elements.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-file-upload.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-input-group.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-layouts.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-radios-and-checkboxes.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-select2.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-validations.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\form-wizard.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-boxicons.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-feather-icons.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\icons-line-icons.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\index3.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\map-google-maps.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\map-vector-maps.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-edit-profile.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-404-error.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-500-error.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-errors-coming-soon.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-faq.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-invoices.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-pricing-tables.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-starter-page.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\pages-to-do.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-advance-tables.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-basic-table.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\table-datatable.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\widgets-data-widgets.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\ltr\widgets-static-widgets.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\email_16.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\filter_16.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\kolok.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\img\reposition_iviLogoPlateRounded.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\Семестровка орис\index.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\UserProfile\profile.html
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.deps.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.runtimeconfig.json
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyHttpServer.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\TemplateEngine.pdb
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpSe.FF156C80.Up2Date
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\MyHttpServer.genruntimeconfig.cache
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\obj\Debug\net8.0\ref\MyHttpServer.dll
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\img\kolok.png
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\public\img\reposition_iviLogoPlateRounded.svg
+C:\Users\timyr\Downloads\Telegram Desktop\server2812\server2812\MyHttpServer\MyHttpServer\bin\Debug\net8.0\Templates\Pages\film_page\index.html
